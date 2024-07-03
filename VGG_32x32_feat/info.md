@@ -1,0 +1,3 @@
+Nella presente cartella ho messo la **src/** dove abbiamo i codici per far partire il training della reta. Dentro a quest'ultima c'è
+una cartella **tune/** dove utilizzo Ray Tune per fare fine-tuning di iper-parametri quali batch_size, learning_rate...
+Nella cartella **data/** è presente il dataset.
