@@ -1,0 +1,8 @@
+{
+    "Batch_size": 32,
+    "Learning_rate": 0.001,
+    "Epochs": 100,
+    "Val_percentage": 0.3,
+    "New_dimension": 224,
+    "Seed": 8888
+}
