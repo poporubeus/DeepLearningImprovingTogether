@@ -90,7 +90,7 @@ def qnn(inputs: Tensor, weights: Tensor) -> Tensor:
     StatePreparation(inputs, qbits)
     Ansatz(weights, qubits=range(qbits))
     return qml.probs(wires=range(qbits))
-
+#ciao
 
 
 
